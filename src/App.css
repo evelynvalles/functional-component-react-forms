@@ -1,0 +1,27 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  margin: 1rem 0;
+  border-radius: .5rem;
+  padding: 1rem;
+  background-color: lightgray;
+}
+
+.box label {
+  color: rgb(79, 79, 79);
+  margin-right: .5rem;
+}
+
+.box input {
+  border-radius: .2rem;
+  border: none;
+  padding: .2rem;
+}
+
+#btn {
+  margin-top: .5rem;
+}
